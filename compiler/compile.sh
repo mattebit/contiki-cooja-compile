@@ -1,0 +1,1 @@
+sudo docker run -v .:/build contiki_builder

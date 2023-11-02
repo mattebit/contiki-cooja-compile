@@ -1,1 +1,1 @@
-sudo docker run -v .:/build contiki_builder
+sudo docker run -v .:/build ghcr.io/mattebit/contiki-cooja-compile-builder:main
